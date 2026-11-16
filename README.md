@@ -4,13 +4,16 @@
 
 An interactive data analytics dashboard built using **Python, Pandas, and Streamlit** to explore e-commerce sales performance, customer behavior, and business trends through insightful visualizations.
 
-\<p align="center">
 
-&#x20; \<a href="[https://ecommerce-sales-analysis-caubja9lfeknw6camn9yx.streamlit.app](https://ecommerce-sales-analysis-caubja9lfeknw6camn9yx.streamlit.app)">     \<img src="[https://img.shields.io/badge/🚀\_LIVE_DEMO-Visit_Dashboard-FF4B4B?style=for-the-badge](https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Dashboard-FF4B4B?style=for-the-badge)" />   \</a>
+<p align="center">
+  <a href="https://ecommerce-sales-analysis-caubja9lfeknw6camn9yx.streamlit.app">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Dashboard-FF4B4B?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas" />
+</p>
 
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge\&logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge\&logo=pandas)" />
-
-\</p>
 
 ---
 
