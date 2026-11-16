@@ -17,11 +17,17 @@ An interactive data analytics dashboard built using **Python, Pandas, and Stream
 
 ---
 
+
+---
+
 ## 🌐 Live Dashboard
 
-🔗 [**Explore the Interactive Dashboard**](https://ecommerce-sales-analysis-caubja9lfeknw6camn9yx.streamlit.app)
+🔗 [**Explore the Interactive Dashboard**](https://ecommerce-sales-analysis-caubja9lfeknw6camnr8yx.streamlit.app/)
 
 Experience interactive sales analytics and explore business insights directly in your browser.
+
+---
+
 
 ---
 
